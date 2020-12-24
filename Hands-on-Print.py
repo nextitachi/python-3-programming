@@ -8,7 +8,7 @@ import sys
 
 
 
-#
+
 # Complete the 'Greet' function below.
 #
 # The function accepts STRING Name as parameter.
